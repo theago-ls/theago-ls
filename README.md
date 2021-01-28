@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, guys 👋
 
-<!--
-**theago-ls/theago-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Thiago. I'm a brazilian guy working as mobile and web front-end developer. 
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on mobile and web development
+* 🌱 I’m currently learning Flutter and NodeJS
+* 👯 I’m looking to collaborate on any project that I can be helpful
+* 🤔 I’m looking for help with Flutter and NodeJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=theago-ls&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theago-ls&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### :computer: If you want to talk, just send me a message on [Linkedin](https://www.linkedin.com/in/thiago-lourenco-santos/) :speech_balloon:
